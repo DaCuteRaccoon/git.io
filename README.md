@@ -3,4 +3,4 @@ Git.io is used for shortening GitHub URL's. If you go to the [git.io](https://gi
 
 # Curl
 If you don't know how to use curl, well than today is your lucky day! I will teach you how to use a specific part of it. To run curl (the only way I know how to do it is on Windows lol), first press the windows key, then Ctrl + V, like this:
-![Drag Racing](curl.jpg)
+![Drag Racing](https://raw.githubusercontent.com/DaCuteRaccoon/git.io/main/src/img/curl.png)
