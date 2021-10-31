@@ -17,4 +17,4 @@ curl https://git.io/ -i -F "url=https://github.com/DaCuteRaccoon" -F "code=DaCut
 ```
 That's all you have to do! Good luck!
 ---
-You can find all my custom URLs [here](src/urls/urls.md).
+You can find all my custom URLs [here](src/urls/list.md).
