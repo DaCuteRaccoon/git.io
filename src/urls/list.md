@@ -20,3 +20,6 @@ https://git.io/top
 
 <b>Access BLocked Websites</b><br/>
 https://git.io/accessblockedwebsite
+
+<b>Obfuscate JavaScript</b><br/>
+https://git.io/obfuscatejs
